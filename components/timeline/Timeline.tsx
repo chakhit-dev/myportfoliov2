@@ -1,14 +1,14 @@
 import React from 'react';
 
 const experiences = [
-  {
-    role: "Freelance Full-Stack Developer",
-    company: "Contract",
-    date: "Aug 2025 - Present",
-    description:
-      "Built and deployed production-ready web applications using Next.js, React, Express.js, Prisma, and MySQL. Designed RESTful APIs and relational database schemas, and managed VPS deployments with Nginx, Cloudflare, and SSL.",
-    isCurrent: true,
-  },
+  // {
+  //   role: "Freelance Full-Stack Developer",
+  //   company: "Contract",
+  //   date: "Aug 2025 - Present",
+  //   description:
+  //     "Built and deployed production-ready web applications using Next.js, React, Express.js, Prisma, and MySQL. Designed RESTful APIs and relational database schemas, and managed VPS deployments with Nginx, Cloudflare, and SSL.",
+  //   isCurrent: true,
+  // },
   {
     role: "FiveM Server Full-Stack Developer",
     company: "Contract",
