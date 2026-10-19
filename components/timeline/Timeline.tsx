@@ -4,10 +4,10 @@ const experiences = [
   {
     role: "Freelance Full-Stack Developer",
     company: "Contract",
-    date: "Aug 2025 - Present",
+    date: "Aug 2025 - June 2026",
     description:
       "Built and deployed production-ready and landing web applications using Next.js, React, Express.js, Prisma, and MySQL. Designed RESTful APIs and relational database schemas, and managed VPS deployments with Nginx, Cloudflare, and SSL.",
-    isCurrent: true,
+    isCurrent: false,
   },
   {
     role: "FiveM Server Full-Stack Developer",
@@ -15,7 +15,7 @@ const experiences = [
     date: "Jan 2024 - Present",
     description:
       "Developed client-side and server-side systems using Lua and JavaScript, including inventory, economy, and player management features. Designed MySQL schemas for persistent player data and optimized VPS deployments and server performance.",
-    isCurrent: true,
+    isCurrent: false,
   },
 ];
 
