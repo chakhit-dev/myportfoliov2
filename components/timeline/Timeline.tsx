@@ -12,7 +12,7 @@ const experiences = [
   {
     role: "FiveM Server Full-Stack Developer",
     company: "Contract",
-    date: "Jan 2024 - Present",
+    date: "Jan 2024 - Aug 2026",
     description:
       "Developed client-side and server-side systems using Lua and JavaScript, including inventory, economy, and player management features. Designed MySQL schemas for persistent player data and optimized VPS deployments and server performance.",
     isCurrent: false,
